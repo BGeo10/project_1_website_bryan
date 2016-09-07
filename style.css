@@ -1,14 +1,16 @@
 h2 {
   text-align:center;
-  align-items: center;
   color: white;
-  background-color: navy;
-  border: 5px solid blue;
-  padding: 20px;
-  margin: 20px;
-  width: 200px;
 }
 
 body {
   background-image: url(http://blogs-images.forbes.com/insertcoin/files/2015/06/taken-king4.jpg);
+}
+
+p {
+    color: turquoise;
+}
+
+h3{
+  color:white;
 }
