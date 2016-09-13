@@ -5,12 +5,17 @@ h2 {
 
 body {
   background-image: url(http://blogs-images.forbes.com/insertcoin/files/2015/06/taken-king4.jpg);
+  background-image: url(http://planetdestiny.com/wp-content/uploads/2015/04/trials-of-osiris-weekly-update.png);
 }
 
 p {
     color: orange;
 }
 
-h3{
+h3 {
   color:white;
+}
+
+img {
+  display: block;
 }
