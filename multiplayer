@@ -6,9 +6,17 @@
   </head>
   <body>
     <h2>Multiplayer</h2>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="characters">Characters</a>
+    </nav>
     <h3>Player versus Environment (PvE)</h3>
-    <p>PvE in Destiny is very differnt from PvE in other games. For example Call of Duty only has a single-player or sometimes co-op campaign and zombies mode for PvE and Battlefield only has just a single campaign. Destiny has</p>
-    <img src="https://i.kinja-img.com/gawker-media/image/upload/riocon2baf8gonpz28ba.gif" width=565>
-
+      <p>PvE in Destiny is very differnt from PvE in other games because it has so much content with some RPG mechanics. For example Call of Duty only has a single-player/co-op campaign and zombies mode. Battlefield, only has a single-player campaign. Now those compared to Destiny's strikes, raids, public events, quests, nightfall strikes, arena, and full story missions, are NOTHING. In Destiny you can also experience all those activities with your friends to make the game even more fun. Strikes are 3-player activities that send your fireteam on dangerous mission to take out an enemy of the Darkness from taking over a certain planet or area. Nightfalls are harder versions of strikes with more powerful enemies and completion rewards. Raids are 6-player activities that embark your fireteam on the biggest and hardest content of the game. Raids challenge you and your fireteam in boss fights where your team needs to figure out and create a strategy to defeat each boss as you advance through mazes and encounters. Arena is a 3-player form of survival called The Prison of Elders(easy) or Challenge of the Elders(hard) with boss fights and objectives. Public Events are random activities that anyone can join as you patrol on planets. Finally quests are a series of steps you have to complete in a certain activity to earn loot. As you participate in any of these activities you able to rank up your faction for rewards as well recieve the activity based loot you earn from any PvE event.</p>
+    <img src="http://www.gifmania.com.es/Videojuegos/Videojuegos-Disparos/Destiny/Hechicero-Colmenas-87760.gif" width=550>
+    <img src="http://static1.squarespace.com/static/51224474e4b0cbd2cf2a66e3/t/55843fd0e4b075e3918e682c/1434730470707/" width=550>
+    <h3>Player versus Player (PvP)</h3>
+      <p>Just like many other games Destiny has its own competitive mode called The Crucible. Destiny's Crucible can hold matches of 4, 6, or 12 maximum players. The match lobbies are split into the two teams Alpha and Bravo. The Crucible features the many modes but the basic ones are Clash, Control, Rift, Skirmish, Salvage, Elimination, and Rumble. Clash is another name for the classic 6v6 team deathmatch game mode that appears in most FPS games. Control is a 6v6 objective based game mode where two teams have to capture zones A, B, and C. Rift is another 6v6 objective game mode where you have to take a spark in the center of the map and score it into the enemy rift. Skirmish and Salvage are both 3v3 modes where you can revive fallen teammates but Skirmish is team deathmatch and Salvage is an objective mode of salavaging lost relics that appear within the map. Rumble is free-for-all where you're on your own with no one watching your back from enemy fire. Elimination is the most intense PvP mode in Destiny like Skirmish but you have to eliminate the enemy team with you and your team having only ONE life without respawns unless you are revived. At the 1 minute mark, if no team has been eliminated your team has to capture a zone in an area of the map to claim victory of 1 round. To win an Elimination match you have to win 5 rounds. Just like PvE The Crucible can be played with your own fireteam. Soon for Rise of Iron expansion Bungie will be adding the mode Supremacy and private matches to Destiny.</p>
+    <img src="https://i.kinja-img.com/gawker-media/image/upload/riocon2baf8gonpz28ba.gif" width=550>
+    <a href="https://en.wikipedia.org/wiki/Destiny_(video_game)#Player_versus_player_.28PvP.29">More About Destiny Multiplayer</a>
   </body>
 </html>

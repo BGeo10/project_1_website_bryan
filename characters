@@ -5,6 +5,17 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <
+    <h2>Characters</h2>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="multiplayer">Multiplayer</a>
+    </nav>
+    <h3>Classes</h3>
+      <p>The three main classes/characters in Destiny are called Guardians, which are the Titan, Warlock, and Hunter. Each guardian is different from the other and they all have different skills and attributes which are called subclasses. Subclasses are powers built within your guardian that you obtain with the class you use and each subclass has a very powerful super that enhances your power for a limited time with special abilities. The Titans are a tank class that have really high armor and they have the subclasses Striker, Defender, and Sunbreaker. Warlocks are a class that have their skills mostly are the middle of Titans and Hunters with the subclasses Voidwalker, Sunsinger, and Stormcaller. Lastly Hunters are a class based on agility to allow fast movement and they have the subclasses Golden Gun, Blade Dancer, and Nightstalker. Every situation in the game would fit a certain subclass for your guardian so it is good to experiment with every character and figure out which one is your favorite and which super is most effective at different times.</p>
+    <img src="http://cdn.bleedingcool.net/wp-content/uploads/2015/09/DESTINYTHETAKENKING.jpg" width=550>
+    <h3>Upgrade and Reward System</h3>
+      <p>In Destiny to level up your guardian you must play activities like The Crucible or story to maximize your character's level. Each activity that you are in will always grant you experience and rewards that contain a source of power called "Light". Light is the power guardians recieve from "the Travler" and it is what they use to stop the Darkness. The experience that you obtain through progression in the game is used to level up your guardian's gear and his/her subclass to become more powerful. Once your characters hits level 40 you will be able to earn high light level gear to futher increase your light level to the max. Legendary and exotic gear are the most valuable pieces of armor and weapons to make your guardian be the strongest character in the game. To further increase your upgrade rate you can complete bounties or finish quests in the game to unlock more rewards and upgrades. The subclasses Sunbreaker, Stormcaller, and Nightstalker must be obtained once you complete a quest from your character's Vanguard.</p>
+    <img src="http://apxtool.com/img/15-Oct/trials-of-osiris-return-delayed-in-destiny-the-taken-king-due-to-hunter-exploit-1.jpg" width=550>
+    <a href="https://en.wikipedia.org/wiki/Destiny_(video_game)#Player_versus_player_.28PvP.29">Destiny Wikipedia</a>
   </body>
 </html>
